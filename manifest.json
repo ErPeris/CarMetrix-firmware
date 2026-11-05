@@ -3,5 +3,10 @@
     "ver": "0.4.0a",
     "file": "dongle/carmetrix-dongle-0.4.0a.bin",
     "size": 1133488
+  },
+  "touch": {
+    "ver": "0.6.2d",
+    "file": "touch/carmetrix-touch-0.6.2d.bin",
+    "size": 2101328
   }
 }
