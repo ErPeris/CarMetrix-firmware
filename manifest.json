@@ -10,8 +10,8 @@
     "size": 2101632
   },
   "amoled": {
-    "ver": "0.8.1a",
-    "file": "amoled/carmetrix-amoled-0.8.1a.bin",
-    "size": 3361312
+    "ver": "0.8.1b",
+    "file": "amoled/carmetrix-amoled-0.8.1b.bin",
+    "size": 3442896
   }
 }
