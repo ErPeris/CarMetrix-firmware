@@ -8,5 +8,10 @@
     "ver": "0.6.2e",
     "file": "touch/carmetrix-touch-0.6.2e.bin",
     "size": 2101632
+  },
+  "amoled": {
+    "ver": "0.8.1",
+    "file": "amoled/carmetrix-amoled-0.8.1.bin",
+    "size": 4879056
   }
 }
