@@ -1,8 +1,8 @@
 {
   "dongle": {
-    "ver": "0.4.2b",
-    "file": "dongle/carmetrix-dongle-0.4.2b.bin",
-    "size": 1146304
+    "ver": "0.4.2d",
+    "file": "dongle/carmetrix-dongle-0.4.2d.bin",
+    "size": 1146848
   },
   "touch": {
     "ver": "0.6.2h",
